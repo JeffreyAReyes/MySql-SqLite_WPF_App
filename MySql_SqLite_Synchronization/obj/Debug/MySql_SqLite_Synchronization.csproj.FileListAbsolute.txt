@@ -30,3 +30,35 @@ C:\Users\Marko\documents\visual studio 2015\Projects\MySql_SqLite_Synchronizatio
 C:\Users\Marko\documents\visual studio 2015\Projects\MySql_SqLite_Synchronization\MySql_SqLite_Synchronization\obj\Debug\MySql_SqLite_Synchronization.Migrations.CreatedQueries.resources
 C:\Users\Marko\documents\visual studio 2015\Projects\MySql_SqLite_Synchronization\MySql_SqLite_Synchronization\obj\Debug\MySql_SqLite_Synchronization.Migrations.RemovedDTOs.resources
 C:\Users\Marko\documents\visual studio 2015\Projects\MySql_SqLite_Synchronization\MySql_SqLite_Synchronization\obj\Debug\MySql_SqLite_Synchronization.Migrations.TriedToDescribeForeignKey.resources
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\bin\Debug\MySql_SqLite_Synchronization.exe.config
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\obj\Debug\MySql_SqLite_Synchronization.exe
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\obj\Debug\MySql_SqLite_Synchronization.pdb
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\bin\Debug\MySql_SqLite_Synchronization.exe
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\bin\Debug\MySql_SqLite_Synchronization.pdb
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\bin\Debug\EntityFramework.dll
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\bin\Debug\MySql.Data.dll
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\bin\Debug\System.Data.SQLite.dll
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\bin\Debug\EntityFramework.xml
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\bin\Debug\System.Data.SQLite.xml
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\obj\Debug\MySql_SqLite_Synchronization.csprojResolveAssemblyReference.cache
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\obj\Debug\MainWindow.g.cs
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\obj\Debug\Views\MainControlView.g.cs
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\obj\Debug\App.g.cs
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\obj\Debug\MySql_SqLite_Synchronization_MarkupCompile.cache
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\obj\Debug\MySql_SqLite_Synchronization_MarkupCompile.lref
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\obj\Debug\MainWindow.baml
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\obj\Debug\Views\MainControlView.baml
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\obj\Debug\MySql_SqLite_Synchronization.g.resources
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\obj\Debug\MySql_SqLite_Synchronization.Migrations.InitialCreate.resources
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\obj\Debug\MySql_SqLite_Synchronization.Migrations.Test.resources
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\obj\Debug\MySql_SqLite_Synchronization.Migrations.AddedDTO.resources
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\obj\Debug\MySql_SqLite_Synchronization.Migrations.CreatedQueries.resources
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\obj\Debug\MySql_SqLite_Synchronization.Migrations.RemovedDTOs.resources
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\obj\Debug\MySql_SqLite_Synchronization.Migrations.TriedToDescribeForeignKey.resources
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\obj\Debug\MySql_SqLite_Synchronization.Properties.Resources.resources
+C:\Users\Marko\Documents\GitHub\MySql-SqLite_WPF_App\MySql_SqLite_Synchronization\obj\Debug\MySql_SqLite_Synchronization.csproj.GenerateResource.Cache
